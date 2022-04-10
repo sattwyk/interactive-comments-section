@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  padding: 1rem;
+  gap: 1.2rem;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.avatar {
+  height: 35px;
+}
+
+.send-btn {
+  padding: 1rem;
+  background-color: blue;
+  border-radius: 0.5rem;
+}
